@@ -1,1 +1,10 @@
-
+1-Quais dificuldades encontraram?
+Tentamos criar um Branch pelo "VsCode" pois de início não sabiamos que poderia ser criado diretamente no"GtHub"
+2-Como o controle de versão ajuda a evitar erros?
+O controle de versão permite reverter o código para estados anteriores estáveis caso um erro ocorra.
+3-Como os commits ajudam na rastreabilidade?
+Eles ajudam com um histórico detalhado, registrando exatamente quem alterou o quê, quando e por que através de mensagens descritivas.
+4-Qual a importância do histórico de alterações?
+O histórico permite auditar a evolução do projeto, facilitando a identificação exata de quando e por que um problema foi introduzido.
+5-Como o GitHub pode melhorar a qualidade do software?
+Ele eleva a qualidade do software ao transformar o desenvolvimento de uma atividade solitária em um processo colaborativo,
